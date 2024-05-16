@@ -34,8 +34,9 @@ If you find this repository useful, please cite our paper.
 ```
 @inproceedings{koa2024learning,
   title={Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models},
-  author={Koa, Kelvin JL and Ma, Yunshan and Ng, Ritchie and Chua, Tat-Seng},
-  booktitle={Proceedings of the ACM Web Conference 2024},
+  author={Koa, Kelvin J.L. and Ma, Yunshan and Ng, Ritchie and Chua, Tat-Seng},
+  booktitle={Proceedings of the ACM on Web Conference 2024},
+  pages={4304–4315},
   year={2024}
 }
 ```
